@@ -56,15 +56,15 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 
 ![US Malaria Dashboard](images/CDC_malaria_2016_2017_dashboard.png)
 *Figure 1. Interactive Power BI dashboard showing malaria case distribution across U.S. states (2016–2017).*
-
+---
 
 ![Top 10 States - Malaria Distribution 2016 vs. 2017](images/top10states.png)
 *Figure 2. Comparative spatial distribution of the Top 10 U.S. states reporting malaria, ranked by number of cases.*
-
+---
 
 ![Top 10 Counties - Malaria Distribution 2016 vs. 2017](images/top10counties.png)
 *Figure 3. Comparative spatial distribution of the Top 10 U.S. counties reporting malaria, ranked by number of cases.*
-
+---
 ---
 
 ## Analytical Approach
