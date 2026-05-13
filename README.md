@@ -1,4 +1,4 @@
-# US Malaria Surveillance — Exploratory Data Analysis
+# US Malaria Surveillance - Exploratory Data Analysis
 ### State and County-Level Distribution | 2016 vs. 2017
 
 *Data Analytics Portfolio Project · Python · Power BI · Epidemiological Surveillance*
@@ -36,7 +36,7 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 
 ## Data Source
 
-**Centers for Disease Control and Prevention (CDC)** — Number of Reported Malaria Cases by County, United States (2016 & 2017).
+**Centers for Disease Control and Prevention (CDC)** - Number of Reported Malaria Cases by County, United States (2016 & 2017).
 
 ---
 
