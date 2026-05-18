@@ -44,12 +44,11 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 
 | # | Finding |
 |---|---|
-| 1 | **Concentrated burden:** A small number of states account for the vast majority of U.S. malaria cases, clustering around major urban international travel hubs. New York leads with 292 cases in 2016 and 280 in 2017. |
-| 2 | **Stable national total:** Total reported cases remained similar across both years (2016: ~1,093 / 2017: ~1,078), suggesting stable surveillance rather than an emerging outbreak. |
-| 3 | **Year-over-year shifts:** Absolute and relative change analysis reveals that states with growing burden are not always the highest-volume states, relative increases in smaller states may signal emerging clusters or improved reporting. |
-| 4 | **County-level concentration:** Within high-burden states, cases are further concentrated in specific counties, consistent with urban centers serving as major international travel hubs with greater access to diagnostic services. |
-| 5 | **Data coverage gaps:** Not all states appear in both years, limiting direct year-over-year comparisons. Analysis was restricted to common states to ensure comparability. |
-| 6 | **Travel-associated context:** U.S. malaria cases are almost exclusively imported. Geographic patterns reflect international travel routes, access to diagnostic services, and healthcare-seeking behavior rather than local transmission. |
+ | 1 | **Concentrated burden:** New York (280 cases), Maryland (237), and Texas (123) account for the vast majority of U.S. malaria cases, reflecting geographic clustering around major urban and international travel hubs. |
+ | 2 | **Year-over-year shift:** Maryland (+63) and New Jersey (+42) drove most of the national net gain of +97 cases, while Connecticut (+175%), Kansas (+120%), and Indiana (+80%) recorded the largest relative increases despite low baselines, reinforcing that growing burden is not exclusive to the highest-volume states. |
+ | 3 | **County-level concentration:** Within high-burden states, cases concentrate heavily in one or two counties. Four of the top 10 counties nationally are in New York State alone (Bronx, Kings, New York, Queens), with the Bronx leading at 91 cases in 2017. |
+ | 4 | **Data coverage gaps:** Not all states appear in both years, which limits direct year-over-year comparisons. Analysis was restricted to common states to ensure comparability. |
+ | 5 | **Travel-associated context:** U.S. malaria cases are almost exclusively imported. Geographic patterns, concentrated in states like New York, Maryland, and Texas, likely reflect international travel routes, immigration corridors, and access to diagnostic services rather than local transmission.
 
 ---
 
